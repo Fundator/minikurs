@@ -5,11 +5,16 @@ Minikurs for utviklere. Kickoff 2022
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fundator/minikurs/blob/main)
 
 # Run locally
-Install python >= 3.8
 
-Install dependencies:
+## Prerequisite
+- python >= 3.8
+- git bash
 
-`pip install -r requirements.txt`
+## Setup
+- Open terminal in desired location
+- Run `git clone https://github.com/Fundator/minikurs.git`
+- Run `cd minikurs`
+- Run `./setup.sh` or `.\setup.ps1` depending on type of terminal
 
 ## Option 1: Run a jupyter server in terminal:
 
