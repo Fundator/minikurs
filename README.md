@@ -1,2 +1,27 @@
 # minikurs
 Minikurs for utviklere. Kickoff 2022
+
+# Run from colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fundator/minikurs/blob/main)
+
+# Run locally
+Install python >= 3.8
+
+Install dependencies:
+
+`pip install -r requirements.txt`
+
+## Option 1: Run a jupyter server in terminal:
+
+In a terminal from this repository type `jupyter notebook`
+A browser window with jupyter should pop up.
+
+## Option 2 (run notebook server in vscode):
+
+Press `ctrl+shift+p`
+
+type `select notebook kernel`
+
+![image](https://user-images.githubusercontent.com/10516526/164011174-70b7bd87-f054-49ae-84f1-8ebe2318616f.png)
+
+Choose evironment where notebook is installed.
