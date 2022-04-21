@@ -3,3 +3,5 @@ plotly
 matplotlib
 notebook
 pandas
+tensorflow
+numpy
