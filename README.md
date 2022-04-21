@@ -21,11 +21,9 @@ Minikurs for utviklere. Kickoff 2022
 In a terminal from this repository type `jupyter notebook`
 A browser window with jupyter should pop up.
 
-## Option 2 (run notebook server in vscode):
+## Option 2: Run notebook server in vscode:
 
-Press `ctrl+shift+p`
-
-type `select notebook kernel`
+Open a notebook, press `ctrl+shift+p`, and type `select notebook kernel`.
 
 ![image](https://user-images.githubusercontent.com/10516526/164011174-70b7bd87-f054-49ae-84f1-8ebe2318616f.png)
 
