@@ -7,8 +7,8 @@ Minikurs for utviklere. Kickoff 2022
 # Run locally
 
 ## Prerequisite
-- python >= 3.8
-- git bash
+- python, ~3.8
+- git bash, latest
 
 ## Setup
 - Open terminal in desired location
