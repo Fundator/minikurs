@@ -28,3 +28,5 @@ Open a notebook, press `ctrl+shift+p`, and type `select notebook kernel`, and ch
 ![image](https://user-images.githubusercontent.com/10516526/164011174-70b7bd87-f054-49ae-84f1-8ebe2318616f.png)
 
 ![image](./resources/select_venv.png)
+
+[Tilbakemelding](https://forms.gle/94mNSE1717uW7k7F7)
